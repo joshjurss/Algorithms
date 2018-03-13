@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\josh jurss\desktop\code projects\algorithms\stringfun\stringfun\source.cpp(23): warning C4018: '<': signed/unsigned mismatch
+  stringFun.vcxproj -> C:\Users\Josh Jurss\Desktop\Code Projects\Algorithms\stringFun\Debug\stringFun.exe
+  stringFun.vcxproj -> C:\Users\Josh Jurss\Desktop\Code Projects\Algorithms\stringFun\Debug\stringFun.pdb (Partial PDB)

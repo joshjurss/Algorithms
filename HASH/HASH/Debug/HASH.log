@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\josh jurss\desktop\code projects\algorithms\hash\hash\source.cpp(40): warning C4018: '<': signed/unsigned mismatch
+  HASH.vcxproj -> C:\Users\Josh Jurss\Desktop\Code Projects\Algorithms\HASH\Debug\HASH.exe
+  HASH.vcxproj -> C:\Users\Josh Jurss\Desktop\Code Projects\Algorithms\HASH\Debug\HASH.pdb (Partial PDB)

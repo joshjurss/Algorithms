@@ -1,0 +1,4 @@
+﻿  Main.cpp
+c:\users\josh jurss\desktop\code projects\algorithms\linkedlist\linkedlist\main.cpp(286): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  LinkedList.vcxproj -> C:\Users\Josh Jurss\Desktop\Code Projects\Algorithms\LinkedList\Debug\LinkedList.exe
+  LinkedList.vcxproj -> C:\Users\Josh Jurss\Desktop\Code Projects\Algorithms\LinkedList\Debug\LinkedList.pdb (Partial PDB)

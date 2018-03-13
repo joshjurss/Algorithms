@@ -1,0 +1,4 @@
+﻿  StringManipulation.cpp
+c:\users\josh jurss\desktop\code projects\algorithms\stringmanipulation\stringmanipulation\stringmanipulation.cpp(11): warning C4018: '<=': signed/unsigned mismatch
+  StringManipulation.vcxproj -> C:\Users\Josh Jurss\Desktop\Code Projects\Algorithms\StringManipulation\Debug\StringManipulation.exe
+  StringManipulation.vcxproj -> C:\Users\Josh Jurss\Desktop\Code Projects\Algorithms\StringManipulation\Debug\StringManipulation.pdb (Partial PDB)
